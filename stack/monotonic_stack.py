@@ -1,4 +1,5 @@
 
+# https://support.github.com/tickets/personal/0
 """
 Date: 23 Nov 2024
 Returns the array of elements containing the next greater element of each of the elements present in arr
